@@ -1,0 +1,133 @@
+.desktop-desktop-wrapper {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop-desktop {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 730px;
+    width: 1238px;
+
+}
+
+.desktop-overlap-group {
+    height: 730px;
+    position: relative;
+}
+
+.desktop-BG-shade {
+    background: linear-gradient(180deg, rgba(226, 101, 42, 0.6) 99.99%, rgba(0, 0, 0, 0) 100%);
+    height: 387px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1238px;
+}
+
+.leaf {
+    height: 508px;
+    left: 734px;
+    mix-blend-mode: darken;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 504px;
+}
+
+.orange {
+    height: 565px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 165px;
+    width: 372px;
+}
+
+.desktop-rectangle { 
+    background-color: #ededed;
+    border-radius: 15px;
+    height: 535px;
+    left: 166px;
+    position: absolute;
+    top: 106px;
+    width: 958px;
+}
+
+.shoppingCart {
+    height: 21px;
+    left: 1047px;
+    object-fit: cover;
+    position: absolute;
+    top: 146px;
+    width: 21px;
+}
+
+.shades{
+    height: 245px;
+    left: 323px;
+    object-fit: cover;
+    position: absolute;
+    top: 262px;
+    width: 654px;
+}
+
+.desktop-text-wrapper {
+    color: #000000;
+    font-family: 'NATS-Regular', Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 268px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+}
+
+.desktop-p {
+    color: #000000;
+    font-family: 'NATS-Regular', Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    height: 32px;
+    left: 266px;
+    letter-spacing: 0;
+    line-height: 12px;
+    position: absolute;
+    top: 164px;
+    width: 213px;
+}
+
+.desktop-polygon {
+    height: 16px;
+    left: 636px;
+    position: absolute;
+    top: 575x;
+    width: 17px;
+}
+
+.homeIcon {
+    height: 17px;
+    left: 1008px;
+    object-fit: cover;
+    position: absolute;
+    top: 148px;
+    width: 17px;
+}
+
+.desktop-div {
+    color: #000000;
+    font-family: 'NATS-Regular', Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 31px;
+    left: 266px;
+    letter-spacing: 0px;
+    line-height: 12px;
+    position: absolute;
+    top: 566px;
+    width: 175px;
+}
